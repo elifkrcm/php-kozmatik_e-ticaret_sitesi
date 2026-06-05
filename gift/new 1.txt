@@ -1,0 +1,15 @@
+<?php
+$host = "localhost"; // Sunucu
+$kullanici = "root"; // phpMyAdmin kullanıcı adı (varsayılan: root)
+$sifre = ""; // phpMyAdmin şifresi (varsayılan: boş)
+$veritabani = "cosmetic"; // Veritabanı adı
+
+// Veritabanı bağlantısını oluştur
+$conn = new mysqli($host, $kullanici, $sifre, $veritabani);
+
+// Bağlantıyı kontrol et
+if ($conn->connect_error) {
+    die("Bağlantı hatası: " . $conn->connect_error);
+}
+echo "Veritabanı bağlantısı başarılı.";
+?>

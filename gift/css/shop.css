@@ -1,0 +1,153 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+}
+
+.kategori-form {
+    display: flex;
+    align-items: center;
+    background-color: #f4f4f9;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transform: translateX(30px); /* Sağ kaydırma */
+    width: fit-content;
+    margin: 20px;
+}
+
+.kategori-form label {
+    font-size: 16px;
+    margin-right: 10px;
+    color: #333;
+}
+
+.kategori-form select {
+    padding: 8px 12px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    margin-right: 15px;
+    background-color: white;
+    transition: border-color 0.3s ease;
+}
+
+.kategori-form select:focus {
+    border-color: #FF6699; /* Focus anında renk değişir */
+    outline: none;
+}
+
+.kategori-form button {
+    padding: 8px 20px;
+    background-color: #FF6699;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.kategori-form button:hover {
+    background-color: #CC0066;
+}
+
+.kategori-form button:active {
+    transform: scale(0.98); /* Tıklama efektini verir */
+}
+
+
+.urun {
+    width: 220px; /* Kart genişliği */
+    height: 360px; /* Kart yüksekliği */
+    border: 1px solid #ddd; /* Çerçeve */
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+	
+}
+
+.urun:hover {
+    transform: scale(1.05);
+	
+}
+
+.urun img {
+    width: 100%; /* Çerçeve genişliğini doldur */
+    height: 200px; /* Çerçeve yüksekliğini sabitle */
+    object-fit: contain; /* Resmi kesmeden sığdır */
+    background-color: #f9f9f9; /* Resim dışındaki alanın rengi */
+}
+
+.urun h2 {
+	font-size: 16px;
+    color: #555;
+    margin: 10px 0;
+    height: 40px; /* Başlık için sabit alan */
+    overflow: hidden;
+}
+
+.urun p {
+	font-size: 14px;
+    color: #666;
+    height: 40px; /* Açıklama için sabit alan */
+    overflow: hidden;
+}
+
+.urun strong {
+    color: #000;
+}
+
+/* Ürün kutusunun temel stilini oluşturuyoruz */
+.urun {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    border-radius: 5px;
+    background-color: white;
+}
+
+/* Ürün resmi stilini düzenliyoruz */
+.urun img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+/* Ürün detayları kutusu */
+.urun-detay {
+    margin-top: 10px;
+}
+
+/* Yıldızlar için stil */
+.stars i {
+    color: #ccc; /* Boş yıldız için gri */
+    font-size: 20px;
+    margin-right: 2px;
+}
+
+.stars .fa-star {
+    color: #FFD700; /* Tam yıldız için sarı */
+}
+
+.stars .fa-star-half-o {
+    color: #FFD700; /* Yarım yıldız için sarı */
+}
+
+.stars .fa-star-o {
+    color: #ccc; /* Boş yıldız için gri */
+}
