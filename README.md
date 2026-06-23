@@ -210,23 +210,23 @@ Bu proje geliştirilirken aşağıdaki konular aktif olarak kullanılmıştır.
 
 ![](screenshot/anasayfa.png)
 
-## 🏠 Ana Sayfa - Banner
+## 🏠 Ana Sayfa
 
 ![](screenshot/anasayfa1.png)
 
-## ✨ Ana Sayfa - Öne Çıkan Ürünler
+## ✨ Ana Sayfa
 
 ![](screenshot/anasayfa2.png)
 
-## 💄 Ana Sayfa - Ürün Kategorileri
+## 💄 Ana Sayfa
 
 ![](screenshot/anasayfa3.png)
 
-## ⭐ Ana Sayfa - Kampanyalar
+## ⭐ Ana Sayfa
 
 ![](screenshot/anasayfa4.png)
 
-## 📢 Ana Sayfa - Alt Bölüm
+## 📢 Ana Sayfa
 
 ![](screenshot/anasayfa5.png)
 
