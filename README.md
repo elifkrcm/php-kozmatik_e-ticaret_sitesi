@@ -206,33 +206,117 @@ Bu proje geliştirilirken aşağıdaki konular aktif olarak kullanılmıştır.
 
 # 📸 Ekran Görüntüleri
 
-## Ana Sayfa
+## 🏠 Ana Sayfa
 
-![Ana Sayfa](screenshots/anasayfa.png)
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20123410.png)
 
-## Ürünler Sayfası
+## 🛍️ Ürünler Sayfası
 
-![Ürünler](screenshots/urunler.png)
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20123438.png)
 
-## Ürün Detay Sayfası
+## 🔍 Ürün Arama
 
-![Detay](screenshots/detay.png)
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20123450.png)
 
-## Sepet Sayfası
+## 📦 Ürün Detay Sayfası
 
-![Sepet](screenshots/sepet.png)
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20123506.png)
 
-## Sipariş Sayfası
+## 🛒 Sepete Ürün Ekleme
 
-![Sipariş](screenshots/siparis.png)
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20123526.png)
 
-## Kullanıcı Profili
+## 🛒 Alışveriş Sepeti
 
-![Profil](screenshots/profil.png)
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20124042.png)
 
-## Admin Paneli
+## 💳 Sipariş Oluşturma
 
-![Admin Paneli](screenshots/admin-panel.png)
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20124113.png)
+
+## 📄 Sipariş Özeti
+
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20124205.png)
+
+## 👤 Kullanıcı Girişi
+
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20124214.png)
+
+## 📝 Üye Ol Sayfası
+
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20124249.png)
+
+## 🙍 Kullanıcı Profili
+
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20124307.png)
+
+## 📦 Sipariş Geçmişi
+
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20124326.png)
+
+## ⭐ Ürün Yorumları
+
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20124355.png)
+
+## ⚙️ Admin Paneli
+
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20124405.png)
+
+## 📦 Admin - Ürün Yönetimi
+
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20124415.png)
+
+## ➕ Admin - Ürün Ekleme
+
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20124433.png)
+
+## ✏️ Admin - Ürün Güncelleme
+
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20124454.png)
+
+## 🗑️ Admin - Ürün Silme
+
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20124550.png)
+
+## 👥 Admin - Kullanıcı Yönetimi
+
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20132138.png)
+
+## 📋 Admin - Sipariş Yönetimi
+
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20132152.png)
+
+## 📑 Sipariş Detayları
+
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20132202.png)
+
+## 💬 Admin - Yorum Yönetimi
+
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20132234.png)
+
+## 📊 Yönetim Paneli Görünümü
+
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20133235.png)
+
+## 🗄️ Veritabanı Tabloları
+
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20133257.png)
+
+## 💾 Veritabanı Kayıtları
+
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20133313.png)
+
+## 🛠️ phpMyAdmin Görünümü
+
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20133338.png)
+
+## 🔐 Yönetici İşlemleri
+
+![](screenshot/Ekran%20görüntüsü%202026-06-06%20133351.png)
+
+## 🎉 Proje Son Görünümü
+
+![](screenshot/Ekran%20görüntüsü%202026-06-23%20210632.png)
 
 ---
 
