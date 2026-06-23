@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column; /* Eski sidebar ile yapılan düzenlemeyi kaldırdık */
+    min-height: 100vh;
+    background-color: #f4f6f9;
+}
+/* Navbar düzenlemesi */
+.navbar {
+    background-color: #2f3542;
+    padding: 10px 20px;
+    color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 100;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.navbar ul li {
+    display: inline;
+}
+
+.navbar a {
+    color: #dcdde1;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px;
+    transition: 0.3s;
+}
+
+.navbar a:hover {
+    color: #70a1ff;
+    padding-left: 8px;
+}
+
+/* Main Content düzenlemesi */
+.main-content {
+    flex: 1;
+    padding: 40px;
+    margin-top: 70px; /* Navbar'ın altına gelecek şekilde boşluk bırak */
+}
+
+.main-content h1 {
+    font-size: 36px;
+    color: #2f3542;
+    margin-bottom: 20px;
+}
+
+.main-content p {
+    font-size: 18px;
+    color: #57606f;
+}
